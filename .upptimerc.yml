@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: serv00
-  - url: https://xeron.serv00.net
+    url: https://xeron.serv00.net
   # - name: Google
   #   url: https://www.google.com
   # - name: Wikipedia
